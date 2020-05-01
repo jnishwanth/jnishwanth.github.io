@@ -1,10 +1,10 @@
-## Delta WebDev Task1
+# Delta WebDev Task1
 
 Click [here](jnishwanth.github.io/HTML.html) to acess the webpage
 
 The code for the file is given below
 
-###HTML
+## HTML
 ```
 <!DOCTYPE html>
 <html>
@@ -31,7 +31,7 @@ The code for the file is given below
 
 </html>
 ```
-###CSS
+## CSS
 ```
 .num_container	{
 	position: fixed;
@@ -65,7 +65,7 @@ The code for the file is given below
 }
 ```
 
-###JS
+## JS
 ```
 //Some lines of code are commented for debugging
 var ASDF = 0;
