@@ -1,0 +1,30 @@
+.num_container	{
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	grid-template-columns: auto auto auto auto auto;
+	display: grid;
+	width: 505px;
+	text-align: center;
+	background-color: blue;
+	border-radius: 9px;
+	padding: 50px;
+}
+.num_button	{
+	display: grid;
+	text-align: center;
+	background-color: red;
+	display: table-cell;
+	vertical-align: middle;
+	font-size: 55px;
+	border-radius: 6px;
+	margin: 1px;
+	width: 100px;
+	height: 100px;
+}
+
+.general	{
+	float: left;
+	font-size: 30px;
+}
