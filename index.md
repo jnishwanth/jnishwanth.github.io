@@ -1,6 +1,5 @@
 ## Delta WebDev Task1
 
-
 Click [here](jnishwanth.github.io/HTML.html) to acess the webpage
 
 The code for the file is given below
