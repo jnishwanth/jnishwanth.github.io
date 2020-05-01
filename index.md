@@ -67,6 +67,7 @@ The code for the file is given below
 
 ###JS
 ```
+//Some lines of code are commented for debugging
 var ASDF = 0;
 
 //StartGame
