@@ -9,14 +9,11 @@
     <lastBuildDate>Wed, 19 Jan 2022 10:03:35 +0530</lastBuildDate><atom:link href="https://jnishwanth.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://jnishwanth.github.io/posts/hugo_gh-pages/</link>
+      <link>https://jnishwanth.github.io/posts/hugo/</link>
       <pubDate>Wed, 19 Jan 2022 10:03:35 +0530</pubDate>
       
-      <guid>https://jnishwanth.github.io/posts/hugo_gh-pages/</guid>
-      <description>What is Hugo?    Hugo is a fast and simple framework written in Go language to build general purpose websites.
-  There are a lot of pre-buit themes you can choose from and tweak as you go on.
-    A general idea of how Hugo works    Create a new site using#+BEGIN_SRC shell hugo new site &amp;lt;site_name&amp;gt; .
-  Clone a theme repository/copy theme files into the site_name/themes} folder and add src_toml{theme = &amp;lt;theme_name&amp;gt;} into src_shell{site_name/config.</description>
+      <guid>https://jnishwanth.github.io/posts/hugo/</guid>
+      <description>What is Hugo?  Hugo is a fast and simple framework written in Go language to build general purpose websites. There are a lot of pre-buit themes you can choose from and tweak as you go on.  A general idea of how Hugo works  Create a new site hugo new &amp;lt;site_name&amp;gt;. Clone a theme repository/copy theme files into the site_name/themes folder and add the line theme = &amp;quot;&amp;lt;theme_name&amp;gt;&amp;quot; into config.</description>
     </item>
     
   </channel>
