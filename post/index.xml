@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nish&#39;s page</title>
-    <link>https://jnishwanth.github.io/</link>
-    <description>Recent content on Nish&#39;s page</description>
+    <title>Posts on Nish&#39;s page</title>
+    <link>https://jnishwanth.github.io/post/</link>
+    <description>Recent content in Posts on Nish&#39;s page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jan 2022 10:03:35 +0530</lastBuildDate><atom:link href="https://jnishwanth.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jan 2022 10:03:35 +0530</lastBuildDate><atom:link href="https://jnishwanth.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
       <link>https://jnishwanth.github.io/post/hugo_gh-pages/</link>

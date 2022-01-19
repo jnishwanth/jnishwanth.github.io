@@ -4,13 +4,28 @@
     
         
         <url>
-            <loc>https://jnishwanth.github.io/categories/</loc>
+            <loc>https://jnishwanth.github.io/post/hugo_gh-pages/</loc>
+            <lastmod>2022-01-19T10:03:35+05:30</lastmod>
         </url>
         
     
         
         <url>
             <loc>https://jnishwanth.github.io/</loc>
+            <lastmod>2022-01-19T10:03:35+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://jnishwanth.github.io/post/</loc>
+            <lastmod>2022-01-19T10:03:35+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://jnishwanth.github.io/categories/</loc>
         </url>
         
     
